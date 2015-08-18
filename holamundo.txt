@@ -1,4 +1,0 @@
-holamundo.txt
-Hola mundo
-mi primer archivo de github
-estoy agregando lineas nuevas uuuuhhh!!!!
